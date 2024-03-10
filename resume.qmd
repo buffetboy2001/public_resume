@@ -4,7 +4,9 @@ editor:
   render-on-save: true
 format:
    html:
-      theme: darkly
+      theme: 
+        dark: darkly
+        light: cerulean
       output-file: index.html
       table-of-contents: true
    pdf:
